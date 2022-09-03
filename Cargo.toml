@@ -1,5 +1,5 @@
 [package]
-name = "hello-world-cargo"
+name = "rust-fizzbuzz"
 version = "0.1.0"
 edition = "2021"
 
